@@ -21,8 +21,8 @@
   - Обертки: https://github.com/HowProgrammingWorks/Wrapper
   - Примеси: https://github.com/HowProgrammingWorks/Mixin
   - Мемоизация: https://github.com/HowProgrammingWorks/Memoization
-- [Чеининг функций и объектов, обработка ошибок в JavaScript](https://youtu.be/PfuEfIiLX34)
-  - Чеининг: https://github.com/HowProgrammingWorks/Chaining
+- [Чейнинг функций и объектов, обработка ошибок в JavaScript](https://youtu.be/PfuEfIiLX34)
+  - Чейнинг: https://github.com/HowProgrammingWorks/Chaining
   - Обработка ошибок: https://github.com/HowProgrammingWorks/Errors
 - [Рекурсия: косвенная и хвостовая, стек, выход](https://youtu.be/W2skCjIgVKE)
   - Примеры кода: https://github.com/HowProgrammingWorks/Recursion
